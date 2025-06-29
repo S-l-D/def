@@ -1,7 +1,3 @@
 ﻿  Source.cpp
-C:\Users\Ваниш\Desktop\Читалка\LEF_DEF\LEF_DEF\Source.cpp(14,16): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
-C:\Users\Ваниш\Desktop\Читалка\LEF_DEF\LEF_DEF\Source.cpp(14,2): error C2371: BUSBITCHARS: переопределение; различные базовые типы
-C:\Users\Ваниш\Desktop\Читалка\LEF_DEF\LEF_DEF\Source.cpp(13,7): message : см. объявление "BUSBITCHARS"
-C:\Users\Ваниш\Desktop\Читалка\LEF_DEF\LEF_DEF\Source.cpp(16,18): error C2440: инициализация: невозможно преобразовать "const char [4]" в "char"
-C:\Users\Ваниш\Desktop\Читалка\LEF_DEF\LEF_DEF\Source.cpp(16,18): message : Не существует контекста, в котором такое преобразование возможно
-C:\Users\Ваниш\Desktop\Читалка\LEF_DEF\LEF_DEF\Source.cpp(123,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Ваниш\Desktop\Читалка\LEF_DEF\LEF_DEF\Source.cpp(393,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  LEF_DEF.vcxproj -> C:\Users\Ваниш\Desktop\Читалка\LEF_DEF\x64\Debug\LEF_DEF.exe
